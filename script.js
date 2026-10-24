@@ -30,7 +30,7 @@ function getWhatsAppUrl() {
 }
 
 function getTelegramUrl() {
-  const username = CONFIG.telegramUsername.replace(/^@/, "").trim();
+  const username = "sumanescort00";
   return `https://t.me/${encodeURIComponent(username)}`;
 }
 
